@@ -14,7 +14,7 @@ public class Test {
 		
 	};
 	
-	public void me4();
+	public void me4(){};
 	
 
 

@@ -6,14 +6,14 @@ public class Test {
 	int c;
 	int d;
 	
-	public void me1(){
-	
-	};
+	public void me1(){};	
+	public void me2(){};
 	
 	public void me3(){
 		System.out.println("----------");
 		
 	};
 	
+
 
 }
